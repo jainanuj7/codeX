@@ -12,3 +12,4 @@ This app was developed by TEAM CODE-E-SALSA as a part of Sinhgad Karandak - Tech
 3. Browse localhost:port_no to start
 4. Sign up a new account & log into start the test
 5. Browse the live leader board from http://localhost:port/codex/admin_panel and select leaderboard
+5. Main database config can be tweeked from /includes/misc.inc
